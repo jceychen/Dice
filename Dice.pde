@@ -19,7 +19,7 @@ void draw()
   fill (255);
   textAlign(CENTER);
   textSize(30);
-  text("sum: " + sum, 85, 760);
+  text("sum: " + sum, 90, 760);
   text("flowers: " + rollSix, 645, 760);
 }
 
